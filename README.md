@@ -1,6 +1,6 @@
 # hough_transform
 
-simple implemention of Hough Transform for detecion circle in image.
+Simple implementation of Hough Transform for detection circle in the image.
 
 orginal image             |  hough transform
 :-------------------------:|:-------------------------:
